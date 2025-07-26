@@ -91,7 +91,7 @@ I regularly publish in-depth articles on malware analysis, reverse engineering, 
 
 <!-- Project 2: Phishing Tool -->
 <p>
-  <strong><a href="https://github.com/[your-github-username]/[repo-name-for-phishing-tool]">Phishing Campaign Simulator</a></strong><br/>
+  <strong><a href="https://github.com/sohankanna/PhishingSimulator/blob/main/README.md">Phishing Campaign Simulator</a></strong><br/>
   A Python-based tool developed to conduct controlled phishing simulations for security awareness training. The application sends customized email templates and hosts a tracking server to measure campaign effectiveness.
   <br/>
   <em>Technologies: Python, SMTP, Django, HTML/CSS</em>
