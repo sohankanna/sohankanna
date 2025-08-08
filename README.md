@@ -99,7 +99,7 @@ I regularly publish in-depth articles on malware analysis, reverse engineering, 
 
 <!-- Project 3: Write-ups -->
 <p>
-  <strong><a href="https://medium.com/@sohankanna">Security Challenge & SOC Alert Analysis Write-ups</a></strong><br/>
+  <strong><a href="https://github.com/sohankanna/cybersecurity-writeups/tree/main">Security Challenge & SOC Alert Analysis Write-ups</a></strong><br/>
   All my detailed walkthroughs for TryHackMe labs and my analysis of real-world SOC alerts from the LetsDefend platform, documenting my approach to both offensive and defensive security challenges.
   <br/>
   <em>Domains: Digital Forensics, Incident Response (DFIR), Penetration Testing, Log Analysis</em>
