@@ -95,7 +95,7 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   
   <h4>Network Security</h4>
   <!-- You might not have a public link, but you can still show the image -->
-  <img src="assets/certs/nptel-network-security.png" alt="NPTEL Network Security Certificate" width="600">
+  <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
   <br><br>
   
 </details>
