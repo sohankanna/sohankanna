@@ -59,11 +59,66 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
-*   **Google Cybersecurity Professional Certificate** | Coursera
-*   **(ISC)² Certified in Cybersecurity (CC)** | (ISC)²
-*   **Network Security** | NPTEL (IIT Bombay)
+<details>
+  <summary><strong>Google</strong></summary>
+  <br>
+  
+  _This section contains all my certifications from Google._
+  
+  <h4>Google Cybersecurity Professional Certificate</h4>
+  <a href="LINK_TO_YOUR_COURSERA_CERTIFICATE_PAGE">
+    <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
+  </a>
+  <br><br>
+  
+  <!-- If you have another Google cert, add it here like the one above -->
+  
+</details>
+
+<details>
+  <summary><strong>(ISC)²</strong></summary>
+  <br>
+  
+  <h4>(ISC)² Certified in Cybersecurity (CC)</h4>
+  <a href="LINK_TO_YOUR_ISC2_VERIFICATION_PAGE">
+    <img src="assets/certs/CC EXAM.pdf" alt="(ISC)² CC Certificate" width="600">
+  </a>
+  <br><br>
+  
+</details>
+
+<details>
+  <summary><strong>NPTEL (IIT Bombay)</strong></summary>
+  <br>
+  
+  <h4>Network Security</h4>
+  <!-- You might not have a public link, but you can still show the image -->
+  <img src="assets/certs/nptel-network-security.png" alt="NPTEL Network Security Certificate" width="600">
+  <br><br>
+  
+</details>
+
+<details>
+  <summary><strong>LetsDefend</strong></summary>
+  <br>
+  
+  _This section contains my certificates of completion from the LetsDefend platform._
+  
+  <h4>SOC Analyst Fundamentals</h4>
+  <a href="https://app.letsdefend.io/certificate/show/7f970376-3faf-4673-aa48-db46b81a847e">
+    <img src="assets/certs/socpathletsdefend.png" alt="LetsDefend SOC Analyst Certificate" width="600">
+  </a>
+  <br><br>
+
+  <h4>Malware Analysis</h4>
+  <a href="https://app.letsdefend.io/certificate/show/c0d346a1-d7da-4ee1-8c3a-bd445f6273eb">
+    <img src="assets/certs/malwarecert.png" alt="Another LetsDefend Certificate" width="600">
+  </a>
+  <br><br>
+  
+</details>
 
 ---
 
