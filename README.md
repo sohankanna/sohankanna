@@ -82,9 +82,9 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <br>
   
   <h4>(ISC)² Certified in Cybersecurity (CC)</h4>
-  <a href="LINK_TO_YOUR_ISC2_VERIFICATION_PAGE">
-    <img src="assets/certs/CC EXAM.pdf" alt="(ISC)² CC Certificate" width="600">
-  </a>
+  
+  <img src="assets/certs/isc2ccexam.png" alt="(ISC)² CC Certificate" width="600">
+ 
   <br><br>
   
 </details>
@@ -117,6 +117,21 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
     <img src="assets/certs/malwarecert.png" alt="Another LetsDefend Certificate" width="600">
   </a>
   <br><br>
+  
+</details>
+<details>
+  <summary><strong>TryHackMe</strong></summary>
+  <br>
+  
+  _This section contains all my certifications from TryHackMe._
+  
+  <h4>Web Fundamentals Path</h4>
+  <a href="LINK_TO_YOUR_COURSERA_CERTIFICATE_PAGE">
+    <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
+  </a>
+  <br><br>
+  
+  <!-- If you have another Google cert, add it here like the one above -->
   
 </details>
 
