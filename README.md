@@ -125,7 +125,7 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   
   _This section contains all my certifications from TryHackMe._
   
-  <h4>Web Fundamentals Path</h4>
+  <h4>CybeSecurity Fundamentals</h4>
   <a href="">
     <img src="assets/certs/cybersec101.png" alt="Google Cybersecurity Certificate" width="600">
   </a>
