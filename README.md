@@ -68,7 +68,7 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   _This section contains all my certifications from Google._
   
   <h4>Google Cybersecurity Professional Certificate</h4>
-  <a href="LINK_TO_YOUR_COURSERA_CERTIFICATE_PAGE">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/C9Z75MHGWLCQ">
     <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
   </a>
   <br><br>
@@ -126,8 +126,8 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   _This section contains all my certifications from TryHackMe._
   
   <h4>Web Fundamentals Path</h4>
-  <a href="LINK_TO_YOUR_COURSERA_CERTIFICATE_PAGE">
-    <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
+  <a href="">
+    <img src="assets/certs/cybersec101.png" alt="Google Cybersecurity Certificate" width="600">
   </a>
   <br><br>
   
