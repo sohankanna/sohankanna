@@ -177,6 +177,15 @@ I regularly publish in-depth articles on malware analysis, reverse engineering, 
 
 ---
 
+---
+
+## 🏆 CTF Competitions & Achievements
+
+I am passionate about sharpening my skills through competitive cybersecurity. I actively participate in Capture The Flag (CTF) events with my team, **Diamond_Dogs**. I maintain two repositories to document this journey:
+
+-   **[🏆 CTF Trophy Case](https://github.com/sohankanna/ctf-trophy-case)**: A logbook of all the events I've participated in, showcasing my rankings, scores, and certificates of participation.
+---
+
 ### 📬 Let's Connect
 
 <p align="center">
