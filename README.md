@@ -120,7 +120,7 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   
   <h4>Programming For CyberSecurity</h4>
   <a href="https://app.letsdefend.io/certificate/show/06d1ae83-cf3b-4189-96e2-f498de03a109">
-    <img src="assets/certs/malwarecert.png" alt="Another LetsDefend Certificate" width="600">
+    <img src="assets/certs/letsdefendprogramming.png" alt="Another LetsDefend Certificate" width="600">
   </a>
   <br><br>
   
