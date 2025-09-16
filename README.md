@@ -77,6 +77,7 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   
 </details>
 
+
 <details>
   <summary><strong>(ISC)²</strong></summary>
   <br>
@@ -88,18 +89,6 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <br><br>
   
 </details>
-
-<details>
-  <summary><strong>NPTEL (IIT Bombay)</strong></summary>
-  <br>
-  
-  <h4>Network Security</h4>
-  <!-- You might not have a public link, but you can still show the image -->
-  <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
-  <br><br>
-  
-</details>
-
 <details>
   <summary><strong>LetsDefend</strong></summary>
   <br>
@@ -130,6 +119,20 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <br><br>
   
 </details>
+
+
+<details>
+  <summary><strong>NPTEL (IIT Bombay)</strong></summary>
+  <br>
+  
+  <h4>Network Security</h4>
+  <!-- You might not have a public link, but you can still show the image -->
+  <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
+  <br><br>
+  
+</details>
+
+
 <details>
   <summary><strong>TryHackMe</strong></summary>
   <br>
