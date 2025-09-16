@@ -117,6 +117,11 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
     <img src="assets/certs/malwarecert.png" alt="Another LetsDefend Certificate" width="600">
   </a>
   <br><br>
+    <h4>Web Attack Detection and Analysis</h4>
+  <a href="https://app.letsdefend.io/certificate/show/fd7c977e-6f79-4842-85bf-43641389f230">
+    <img src="assets/certs/letsdefendwebattack.png" alt="Another LetsDefend Certificate" width="600">
+  </a>
+  <br><br>
   
   <h4>Programming For CyberSecurity</h4>
   <a href="https://app.letsdefend.io/certificate/show/06d1ae83-cf3b-4189-96e2-f498de03a109">
