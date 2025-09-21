@@ -145,10 +145,16 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <br>
   
   _This section contains all my certifications from TryHackMe._
-  
-  <h4>CybeSecurity Fundamentals</h4>
+
+  <h4>Jr Penetration Tester</h4>
   <a href="">
-    <img src="assets/certs/cybersec101.png" alt="Google Cybersecurity Certificate" width="600">
+    <img src="assets/certs/thmjrpentester_page-0001.jpg" alt="" width="600">
+  </a>
+  <br><br>
+  
+  <h4>CyberSecurity Fundamentals</h4>
+  <a href="">
+    <img src="assets/certs/cybersec101.png" alt="" width="600">
   </a>
   <br><br>
   
