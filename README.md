@@ -157,6 +157,11 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
     <img src="assets/certs/cybersec101.png" alt="" width="600">
   </a>
   <br><br>
+  <h4>Web Fundamentals</h4>
+  <a href="">
+    <img src="assets/certs/thmwebfundamentals_page-0001.jpg" alt="" width="600">
+  </a>
+  <br><br>
   
   <!-- If you have another Google cert, add it here like the one above -->
   
