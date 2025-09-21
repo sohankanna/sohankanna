@@ -128,17 +128,6 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
 </details>
 
 
-<details>
-  <summary><strong>NPTEL (IIT Bombay)</strong></summary>
-  <br>
-  
-  <h4>Network Security</h4>
-  <!-- You might not have a public link, but you can still show the image -->
-  <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
-  <br><br>
-  
-</details>
-
 
 <details>
   <summary><strong>TryHackMe</strong></summary>
@@ -163,9 +152,19 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   </a>
   <br><br>
   
-  <!-- If you have another Google cert, add it here like the one above -->
+</details>
+
+<details>
+  <summary><strong>NPTEL (IIT Bombay)</strong></summary>
+  <br>
+  
+  <h4>Network Security</h4>
+  <!-- You might not have a public link, but you can still show the image -->
+  <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
+  <br><br>
   
 </details>
+
 
 ---
 
