@@ -116,6 +116,13 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <a href="https://app.letsdefend.io/certificate/show/06d1ae83-cf3b-4189-96e2-f498de03a109">
     <img src="assets/certs/letsdefendprogramming.png" alt="Another LetsDefend Certificate" width="600">
   </a>
+    <br><br>
+    <h4>Non Stop</h4>
+  <a href="  https://app.letsdefend.io/my-rewards/detail/a3cccbd1-5060-40e8-9722-6ca17c212a03
+">
+  <img width="600" height="724" alt="image" src="assets/certs/letsdefendalert65.png" />
+  </a>
+  <br><br>
   <br><br>
     <h4>Hunter - 2 Badge</h4>
   <a href="  https://app.letsdefend.io/my-rewards/detail/b88c01b5cb0c4776b4437d7a7765a5f0
