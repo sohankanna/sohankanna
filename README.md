@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Sohan Kanna  👋</h1>
 <h3 align="center">A CSE Student passionate about Offensive Security and Defensive Operations.</h3>
 
@@ -62,33 +61,60 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
 ## 📜 Certifications
 
 <details>
-  <summary><strong>Google</strong></summary>
+  <summary><strong>Hack The Box (HTB)</strong></summary>
   <br>
   
-  _This section contains all my certifications from Google._
-  
-  <h4>Google Cybersecurity Professional Certificate</h4>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/C9Z75MHGWLCQ">
-    <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
+  _This section contains my certifications from Hack The Box._
+
+  <h4>Certified Defensive Security Analyst (CDSA)</h4>
+  <!-- Replace 'htb_cdsa.png' with your actual file name -->
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/02be94bd-ea82-4677-afd8-2c15caf9d983"
+alt="HTB CDSA Certificate" width="600">
   </a>
   <br><br>
   
-  <!-- If you have another Google cert, add it here like the one above -->
-  
+  <h4>CJCA</h4>
+  <!-- Replace 'htb_cjca.png' with your actual file name -->
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/30d3496e-c4d0-4777-9e1b-e5f49dbee173" alt="HTB CJCA Certificate" width="600">
+  </a>
+  <br><br>
 </details>
 
-
 <details>
-  <summary><strong>(ISC)²</strong></summary>
+  <summary><strong>TryHackMe</strong></summary>
   <br>
   
-  <h4>(ISC)² Certified in Cybersecurity (CC)</h4>
+  _This section contains all my certifications from TryHackMe._
+
+  <h4>SOC Level 1 (Learning Path)</h4>
+  <!-- Replace 'thm_soc1.jpg' with your actual file name -->
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/bdb1da99-0f3c-41db-bc46-2ab166549fdf" alt="THM SOC Level 1" width="600">
+  </a>
+  <br><br>
+
+  <h4>Jr Penetration Tester</h4>
+  <a href="">
+    <img src="assets/certs/thmjrpentester_page-0001.jpg" alt="" width="600">
+  </a>
+  <br><br>
+
+  <h4>CyberSecurity Fundamentals</h4>
+  <a href="">
+    <img src="assets/certs/cybersec101.png" alt="" width="600">
+  </a>
+  <br><br>
   
-  <img src="assets/certs/isc2ccexam.png" alt="(ISC)² CC Certificate" width="600">
- 
+  <h4>Web Fundamentals</h4>
+  <a href="">
+    <img src="assets/certs/thmwebfundamentals_page-0001.jpg" alt="" width="600">
+  </a>
   <br><br>
   
 </details>
+
 <details>
   <summary><strong>LetsDefend</strong></summary>
   <br>
@@ -141,29 +167,28 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
 
 </details>
 
-
-
 <details>
-  <summary><strong>TryHackMe</strong></summary>
+  <summary><strong>Google</strong></summary>
   <br>
   
-  _This section contains all my certifications from TryHackMe._
-
-  <h4>Jr Penetration Tester</h4>
-  <a href="">
-    <img src="assets/certs/thmjrpentester_page-0001.jpg" alt="" width="600">
+  _This section contains all my certifications from Google._
+  
+  <h4>Google Cybersecurity Professional Certificate</h4>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/C9Z75MHGWLCQ">
+    <img src="assets/certs/googlecybersecurity.jpg" alt="Google Cybersecurity Certificate" width="600">
   </a>
   <br><br>
   
-  <h4>CyberSecurity Fundamentals</h4>
-  <a href="">
-    <img src="assets/certs/cybersec101.png" alt="" width="600">
-  </a>
-  <br><br>
-  <h4>Web Fundamentals</h4>
-  <a href="">
-    <img src="assets/certs/thmwebfundamentals_page-0001.jpg" alt="" width="600">
-  </a>
+</details>
+
+<details>
+  <summary><strong>(ISC)²</strong></summary>
+  <br>
+  
+  <h4>(ISC)² Certified in Cybersecurity (CC)</h4>
+  
+  <img src="assets/certs/isc2ccexam.png" alt="(ISC)² CC Certificate" width="600">
+ 
   <br><br>
   
 </details>
@@ -173,12 +198,10 @@ As a Computer Science student, I'm fascinated by the constant duel between syste
   <br>
   
   <h4>Network Security</h4>
-  <!-- You might not have a public link, but you can still show the image -->
   <img src="assets/certs/Networksec.png" alt="NPTEL Network Security Certificate" width="600">
   <br><br>
   
 </details>
-
 
 ---
 
