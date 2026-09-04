@@ -76,7 +76,7 @@ I actively hunt for and responsibly report security vulnerabilities. My findings
 ### 💼 Experience
 
 <p>
-  <strong>Security Platform Engineer</strong> — BytesEncrypt<br/>
+  <strong>Security Intern</strong> — BytesEncrypt<br/>
   Designed and built an end-to-end blue-team security-training platform (Node.js, AWS), authoring 40–50 hands-on defensive-security labs covering threat detection, log analysis, and incident response.
 </p>
 
