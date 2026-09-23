@@ -288,13 +288,7 @@ obfuscated code. My write-up on **Chrome zero-day exploitation** has crossed **6
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankanna&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 
-<br/><br/>
 
-<img src="https://raw.githubusercontent.com/sohankanna/sohankanna/output/snake.svg" alt="contribution snake" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -310,6 +304,6 @@ obfuscated code. My write-up on **Chrome zero-day exploitation** has crossed **6
 
 <br/><br/>
 
-<sub>`The Matrix has you.`</sub>
+
 
 </div>
