@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/NOW-AI_BUILDER_INTERN_%40_RAZORPAY-000000?style=flat-square&labelColor=003B00&color=00FF41" />
-<img src="https://img.shields.io/badge/DISCLOSURES-5_ACKNOWLEDGED-000000?style=flat-square&labelColor=003B00&color=00FF41" />
-<img src="https://komarev.com/ghpvc/?username=sohankanna&color=00FF41&style=flat-square&label=CONNECTIONS+TRACED" />
+<img src="https://img.shields.io/badge/NOW-AI_BUILDER_INTERN_%40_RAZORPAY-000000?style=flat-square&labelColor=161B22&color=238636" />
+<img src="https://img.shields.io/badge/DISCLOSURES-5_ACKNOWLEDGED-000000?style=flat-square&labelColor=161B22&color=238636" />
+<img src="https://komarev.com/ghpvc/?username=sohankanna&color=238636&style=flat-square&label=CONNECTIONS+TRACED" />
 
 <br/><br/>
 
@@ -37,7 +37,7 @@ and vulnerability research. Organizations including the **World Health Organizat
 | **Now** | AI Builder Intern at Razorpay |
 | **Focus** | Malware analysis · Reverse engineering · SOC operations · AppSec |
 | **Heading towards** | Threat intelligence |
-| **Studying** | SC-500 Cloud and AI Security Engineer Associate (Microsoft) |
+| **Studying** | CompTIA Security+ · SC-500 Cloud and AI Security Engineer Associate (Microsoft) |
 | **Practising on** | TryHackMe · LetsDefend · Hack The Box |
 | **CTF team** | Diamond_Dogs |
 | **Ask me about** | Ghidra, SIEM architecture, deobfuscation, CTFs |
@@ -232,7 +232,7 @@ A cloud-native SIEM written in Java and Spring Boot that ingests AWS CloudTrail 
 
 ## Certificates
 
-> **In progress** — `SC-500 Cloud and AI Security Engineer Associate (Microsoft)`
+> **In progress** — `CompTIA Security+` · `SC-500 Cloud and AI Security Engineer Associate (Microsoft)`
 
 <details>
 <summary><b>❯ Hack The Box</b></summary>
