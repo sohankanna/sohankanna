@@ -15,6 +15,7 @@
 <a href="#changelog">Changelog</a> ·
 <a href="#hall-of-fame">Hall of Fame</a> ·
 <a href="#ctf-record">CTF Record</a> ·
+<a href="#talks">Talks</a> ·
 <a href="#arsenal">Arsenal</a> ·
 <a href="#experience">Experience</a> ·
 <a href="#projects">Projects</a> ·
@@ -50,6 +51,7 @@ and vulnerability research. Organizations including the **World Health Organizat
 @@ sohankanna — recent activity @@
 + [2026-10]  Joined Razorpay as AI Builder Intern
 + [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
++ [2026-08]  Speaker · null × OWASP Bengaluru meetup · "From Suspicious File to First Verdict"
 + [2026-08]  World Health Organization · RCE disclosure → Security Hall of Fame
 + [2026-07]  HTB Cyber Apocalypse 2026 · 325th of 6,744 teams (top 5%)
 + [2026-07]  Thales Group · letter of appreciation
@@ -95,6 +97,14 @@ and vulnerability research. Organizations including the **World Health Organizat
 <sub>Full logbook with certificates and takeaways → [ctf-trophy-case](https://github.com/sohankanna/ctf-trophy-case)</sub>
 
 </div>
+
+---
+
+## Talks
+
+| DATE | EVENT | TALK | SLIDES |
+| :--- | :--- | :--- | :---: |
+| **Aug 2026** | null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK | **From Suspicious File to First Verdict: A Beginner's Guide to Malware Triage** | [view](https://drive.google.com/file/d/1sFAGZS_kc1tcIjtWGHbZio5MXMJZTott/view?usp=sharing) |
 
 ---
 
