@@ -6,12 +6,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_SOC_%2F%2F_PENTEST_ROLES-000000?style=flat-square&labelColor=003B00&color=00FF41" />
+<img src="https://img.shields.io/badge/NOW-AI_BUILDER_INTERN_%40_RAZORPAY-000000?style=flat-square&labelColor=003B00&color=00FF41" />
+<img src="https://img.shields.io/badge/DISCLOSURES-5_ACKNOWLEDGED-000000?style=flat-square&labelColor=003B00&color=00FF41" />
 <img src="https://komarev.com/ghpvc/?username=sohankanna&color=00FF41&style=flat-square&label=CONNECTIONS+TRACED" />
 
 <br/><br/>
 
+<a href="#changelog">Changelog</a> ·
 <a href="#hall-of-fame">Hall of Fame</a> ·
+<a href="#ctf-record">CTF Record</a> ·
 <a href="#arsenal">Arsenal</a> ·
 <a href="#experience">Experience</a> ·
 <a href="#projects">Projects</a> ·
@@ -26,16 +29,34 @@
 
 CSE student working in the gap between how systems are **built** and how they **break**.
 Days go into malware samples, Ghidra disassembly and SIEM pipelines. Nights go into CTFs
-and bug bounty hunting. Six organizations have acknowledged my disclosures so far.
+and vulnerability research. Organizations including the **World Health Organization** and
+**IBM** have acknowledged my disclosures.
 
 | | |
 | :--- | :--- |
+| **Now** | AI Builder Intern at Razorpay |
 | **Focus** | Malware analysis · Reverse engineering · SOC operations · AppSec |
+| **Heading towards** | Threat intelligence |
 | **Studying** | SC-500 Cloud and AI Security Engineer Associate (Microsoft) |
 | **Practising on** | TryHackMe · LetsDefend · Hack The Box |
 | **CTF team** | Diamond_Dogs |
 | **Ask me about** | Ghidra, SIEM architecture, deobfuscation, CTFs |
-| **Seeking** | SOC Analyst · Penetration Tester |
+
+---
+
+## Changelog
+
+```diff
+@@ sohankanna — recent activity @@
++ [2026-10]  Joined Razorpay as AI Builder Intern
++ [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
++ [2026-08]  World Health Organization · RCE disclosure → Security Hall of Fame
++ [2026-07]  HTB Cyber Apocalypse 2026 · 325th of 6,744 teams (top 5%)
++ [2026-07]  Thales Group · letter of appreciation
++ [2026]     IBM PSIRT · critical-severity disclosure acknowledged
++ [2026]     Philips · Hall of Honors
+! [pending]  United Nations · CERT-In · triaged, listing pending
+```
 
 ---
 
@@ -43,16 +64,35 @@ and bug bounty hunting. Six organizations have acknowledged my disclosures so fa
 
 <div align="center">
 
-| ORGANIZATION | OUTCOME |
+| ORGANIZATION | RECOGNITION |
 | :--- | :--- |
-| **NFL** | `[+]` Security Hall of Fame |
-| **Philips** | `[+]` Security Hall of Fame |
-| **IBM** | `[+]` Security Hall of Fame |
-| **United Nations** | `[~]` Triaged — listing pending |
-| **World Health Organization** | `[~]` Triaged — listing pending |
-| **CERT-In** | `[~]` Triaged — listing pending |
+| **World Health Organization** | `[+]` Security Hall of Fame · Remote Code Execution |
+| **IBM** | `[+]` PSIRT acknowledgment · critical severity |
+| **Philips** | `[+]` Hall of Honors |
+| **Thales Group** | `[+]` Letter of appreciation |
+| **DSCI** (Data Security Council of India) | `[+]` VDP letter of appreciation |
+| **United Nations** | `[~]` Triaged · listing pending |
+| **CERT-In** | `[~]` Triaged · listing pending |
 
-<sub>`6 disclosures accepted · coordinated disclosure only · no unauthorized testing`</sub>
+<sub>`5 acknowledged · 2 in triage · coordinated disclosure only · no unauthorized testing`</sub>
+
+</div>
+
+---
+
+## CTF Record
+
+<div align="center">
+
+| EVENT | RESULT |
+| :--- | :--- |
+| **CloudSEK CTF 2025** | `13th / ~1,600` · top 1% · solo |
+| **HTB Cyber Apocalypse 2026** | `325th / 6,744 teams` · top 5% |
+| **BSides Bangalore B5CTF 2025** | `5th / ~50 teams` · won conference passes |
+| **KPMG Cyber Threat Flag 2026** | `470 pts · 27 solves` · solo |
+| **CTFtime 2025** | Diamond_Dogs ranked `#40 in India` |
+
+<sub>Full logbook with certificates and takeaways → [ctf-trophy-case](https://github.com/sohankanna/ctf-trophy-case)</sub>
 
 </div>
 
@@ -100,20 +140,42 @@ and bug bounty hunting. Six organizations have acknowledged my disclosures so fa
 
 ## Experience
 
+**`AI Builder Intern`** — Razorpay · *Oct 2026 – present*
+
 **`Security Intern`** — BytesEncrypt
 Built an end-to-end blue-team training platform on Node.js and AWS, and authored **40–50 hands-on labs** covering threat detection, log analysis and incident response.
 
-**`Technical Lead`** — ZeroCrypt, Cybersecurity Club
-Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
+**`Technical Lead`** — ZeroCrypt, Cybersecurity Club · *Sep 2025 – present*
+Co-founded the club. Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
 
-**`Security Consultant`** — Freelance
-Found and reported critical and high-severity vulnerabilities across SaaS applications, mapped to the OWASP Top 10.
+**`Security Researcher`** — Independent
+Found and reported critical and high-severity vulnerabilities through coordinated disclosure, including an RCE acknowledged by the WHO and a critical-severity issue acknowledged by IBM PSIRT.
 
 ---
 
 ## Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### ❯ [India Threat Tracker](https://github.com/sohankanna/india-threat-tracker)
+
+An India-focused threat-intelligence tracker: a data product that follows campaigns and actors targeting India, paired with plain-language explainers.
+
+`Threat Intel` · `CTI` · `India`
+
+</td>
+<td width="50%" valign="top">
+
+### ❯ [not-strangers](https://github.com/sohankanna/not-strangers)
+
+Graph-based payment abuse detection that finds fraud rings by the relationships between accounts, not just individual transactions.
+
+`Fraud Detection` · `Graphs` · `Payments`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -154,32 +216,13 @@ A cloud-native SIEM written in Java and Spring Boot that ingests AWS CloudTrail 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ❯ [Enterprise AD Hardening](https://github.com/sohankanna/Enterprise-Active-Directory-Hardening-Project)
-
-A hardened Active Directory build simulating a 1000+ user enterprise on a segregated virtual network, running Windows Server 2019.
-
-`Active Directory` · `Windows Server` · `Hardening`
-
-</td>
-<td width="50%" valign="top">
-
-### ❯ [Insider Threat Dashboard](https://github.com/sohankanna/Insider-Threat-Detection-Dashboard)
-
-Power BI dashboard backed by a Python statistical risk-scoring engine, surfacing insider threats from user behaviour logs.
-
-`UBA` · `Python` · `Power BI` · `Risk Scoring`
-
-</td>
-</tr>
 </table>
 
 **Also in the repo:**
+[Enterprise AD Hardening](https://github.com/sohankanna/Enterprise-Active-Directory-Hardening-Project) ·
+[Insider Threat Dashboard](https://github.com/sohankanna/Insider-Threat-Detection-Dashboard) ·
 [Wazuh SOC Lab](https://github.com/sohankanna/Wazuh-SOC-Lab) ·
 [SOC Analyst Portfolio](https://github.com/sohankanna/SOC-Analyst-Portfolio) ·
-[not-strangers — graph-based payment abuse detection](https://github.com/sohankanna/not-strangers) ·
 [Secure Code Review Handbook](https://github.com/sohankanna/secure-code-review-handbook) ·
 [Phishing Simulator](https://github.com/sohankanna/PhishingSimulator) ·
 [TryHackMe Walkthroughs](https://github.com/sohankanna/TryHackMe-Walkthroughs) ·
@@ -264,19 +307,18 @@ Power BI dashboard backed by a Python statistical risk-scoring engine, surfacing
 
 ## Writing
 
-I publish deep-dives on malware analysis, reverse engineering, and unpacking heavily
-obfuscated code. My write-up on **Chrome zero-day exploitation** has crossed **6,000+ reads**.
-
-<!-- Swap these placeholders for your three strongest posts — a recruiter will click a
-     specific title far more often than a generic "read my blog" link.
-| ARTICLE | TOPIC |
-| :--- | :--- |
-| [Chrome Zero-Day: ...](URL) | Exploitation · 6k+ reads |
-| [Deobfuscating ...](URL) | Malware Analysis |
-| [Reversing ... in Ghidra](URL) | Reverse Engineering |
--->
+I publish deep-dives on malware analysis, reverse engineering, threat intelligence and
+unpacking heavily obfuscated code on my site, cross-posted to Medium. My write-up on
+**Chrome zero-day exploitation** has crossed **6,000+ reads**, and my latest series covers
+all 22 challenges I wrote up from **KPMG CTF 2026**.
 
 <div align="center">
+<a href="https://www.sohankanna.com">
+  <img src="https://img.shields.io/badge/SOHANKANNA.COM-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
+</a>
+<a href="https://www.sohankanna.com/walkthroughs/series/kpmg-ctf-2026-campus-edition">
+  <img src="https://img.shields.io/badge/CTF_WALKTHROUGHS-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
+</a>
 <a href="https://medium.com/@sohankanna">
   <img src="https://img.shields.io/badge/READ_ON_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00FF41" />
 </a>
@@ -288,22 +330,23 @@ obfuscated code. My write-up on **Chrome zero-day exploitation** has crossed **6
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankanna&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 
-
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sohan-kanna/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
+<a href="https://x.com/sohankanna">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
+</a>
+<a href="https://www.sohankanna.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
+</a>
 <a href="https://medium.com/@sohankanna">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41" />
-</a>
-<a href="https://github.com/sohankanna">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
 <br/><br/>
 
-
+<sub>`coordinated disclosure only · no unauthorized testing`</sub>
 
 </div>
