@@ -172,16 +172,9 @@ null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 20
 <!-- TRACKER:START -->
 <div align="center">
 
-**4** India-relevant flaws added to CISA KEV in the last 7 days · **1** high relevance · **508** on the watchlist
+<a href="https://www.sohankanna.com/tracker/vulnerabilities"><img src="assets/tracker-card.svg" width="860" alt="India Threat Tracker: 4 India-relevant flaws added to CISA KEV in the last 7 days, 1 high relevance, 508 on the watchlist" /></a>
 
-| Newest high-relevance | Product | Added to KEV | EPSS |
-| :--- | :--- | :--- | :---: |
-| [`CVE-2026-19868`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-19868) | SonicWall SonicOS SSLVPN | 2026-11-06 | 0.5% |
-| [`CVE-2026-118527`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-118527) | Ivanti Connect Secure | 2026-10-30 | 0.8% |
-| [`CVE-2026-111357`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-111357) | Ivanti Connect Secure | 2026-10-30 | 0.5% |
-| [`CVE-2026-97229`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-97229) | GitLab Community Edition | 2026-10-29 | 65% |
-
-<sub>Auto-updated daily from the [India Threat Tracker](https://www.sohankanna.com/tracker) · feed generated 11 Nov 2026, 09:46 UTC</sub>
+<sub>Open: [`CVE-2026-19868`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-19868) · [`CVE-2026-118527`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-118527) · [`CVE-2026-111357`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-111357) · [`CVE-2026-97229`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-97229) · redrawn daily from the [India Threat Tracker](https://www.sohankanna.com/tracker)</sub>
 
 </div>
 <!-- TRACKER:END -->
