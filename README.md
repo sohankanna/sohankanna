@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1500&pause=99999999&color=00FF41&center=true&vCenter=true&repeat=false&width=700&height=80&lines=SOHAN+KANNA" alt="Sohan Kanna" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=580&height=45&lines=Malware+Analyst+%2F%2F+Reverse+Engineer;SOC+Operator+%2F%2F+Threat+Hunter;I+break+it+to+learn+how+it+was+built." alt="Typing SVG" />
+<img src="assets/header.svg" width="860" alt="SOHAN KANNA · malware analyst // reverse engineer // SOC operator // threat hunter" />
 
 <br/>
 
@@ -12,15 +10,18 @@
 
 <br/><br/>
 
-<a href="#changelog">Changelog</a> ·
 <a href="#hall-of-fame">Hall of Fame</a> ·
+<a href="#changelog">Changelog</a> ·
 <a href="#ctf-record">CTF Record</a> ·
 <a href="#talks">Talks</a> ·
-<a href="#arsenal">Arsenal</a> ·
+<a href="#live-from-the-india-threat-tracker">Live Intel</a> ·
 <a href="#experience">Experience</a> ·
 <a href="#projects">Projects</a> ·
+<a href="#arsenal">Arsenal</a> ·
 <a href="#certificates">Certificates</a> ·
 <a href="#writing">Writing</a>
+
+<sub>Credited as <b>Sohan Kanna D</b> on disclosure listings</sub>
 
 </div>
 
@@ -42,26 +43,6 @@ and vulnerability research. Organizations including the **World Health Organizat
 | **Practising on** | TryHackMe · LetsDefend · Hack The Box |
 | **CTF team** | Diamond_Dogs |
 | **Ask me about** | Ghidra, SIEM architecture, deobfuscation, CTFs |
-
----
-
-## Changelog
-
-```diff
-@@ sohankanna — recent activity @@
-+ [2026-10]  Joined Razorpay as AI Builder Intern
-+ [2026-10]  Docmost · DoS disclosure → GitHub advisory GHSA-qpw3-hp8j-27mf, credited
-+ [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
-+ [2026-08]  Speaker · null × OWASP Bengaluru meetup · "From Suspicious File to First Verdict"
-+ [2026-08]  World Health Organization · RCE disclosure → Security Hall of Fame
-+ [2026-07]  HTB Cyber Apocalypse 2026 · 325th of 6,744 teams (top 5%)
-+ [2026-07]  Thales Group · letter of appreciation
-+ [2026-04]  United Nations · broken authentication disclosure → Information Security Hall of Fame
-+ [2026]     IBM PSIRT · critical-severity disclosure acknowledged
-+ [2026]     Bosch · Websites Hall of Fame
-+ [2026]     Philips · Hall of Honors
-! [pending]  CERT-In · triaged, listing pending
-```
 
 ---
 
@@ -98,7 +79,7 @@ and vulnerability research. Organizations including the **World Health Organizat
 <a href="https://github.com/docmost/docmost/security/advisories/GHSA-qpw3-hp8j-27mf"><b>Docmost</b></a><br/><sub>GitHub advisory · credited</sub><br/><sub><code>GHSA-qpw3-hp8j-27mf</code></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://www.google.com/s2/favicons?domain=thalesgroup.com&sz=128&w=200&h=80&fit=contain&cbg=ffffff&bg=ffffff&output=png" height="36" alt="Thales" /><br/>
+<img src="https://www.google.com/s2/favicons?domain=thalesgroup.com&sz=128" width="36" height="36" alt="Thales" /><br/>
 <b>Thales Group</b><br/><sub>Letter of appreciation</sub><br/><sub><code>Default credentials</code></sub>
 </td>
 <td align="center" width="25%">
@@ -111,6 +92,22 @@ and vulnerability research. Organizations including the **World Health Organizat
 <sub>`8 acknowledged · CERT-In in triage · coordinated disclosure only · no unauthorized testing` · names link to the public listing</sub>
 
 </div>
+
+---
+
+## Changelog
+
+```diff
+@@ sohankanna — recent activity @@
++ [2026-10]  Joined Razorpay as AI Builder Intern
++ [2026-10]  Docmost · DoS disclosure → GitHub advisory GHSA-qpw3-hp8j-27mf, credited
++ [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
++ [2026-08]  Speaker · null × OWASP Bengaluru meetup · "From Suspicious File to First Verdict"
++ [2026-08]  World Health Organization · RCE disclosure → Security Hall of Fame
+! [pending]  CERT-In · triaged, listing pending
+```
+
+<sub>Older entries live in the [Hall of Fame](#hall-of-fame) and [CTF Record](#ctf-record) below.</sub>
 
 ---
 
@@ -170,43 +167,24 @@ null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 20
 
 ---
 
-## Arsenal
+## Live from the India Threat Tracker
 
+<!-- TRACKER:START -->
 <div align="center">
 
-`[ LANGUAGES ]`
+**4** India-relevant flaws added to CISA KEV in the last 7 days · **1** high relevance · **508** on the watchlist
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+| Newest high-relevance | Product | Added to KEV | EPSS |
+| :--- | :--- | :--- | :---: |
+| [`CVE-2026-19868`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-19868) | SonicWall SonicOS SSLVPN | 2026-11-06 | 0.5% |
+| [`CVE-2026-118527`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-118527) | Ivanti Connect Secure | 2026-10-30 | 0.8% |
+| [`CVE-2026-111357`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-111357) | Ivanti Connect Secure | 2026-10-30 | 0.5% |
+| [`CVE-2026-97229`](https://www.sohankanna.com/tracker/vulnerabilities?cve=CVE-2026-97229) | GitLab Community Edition | 2026-10-29 | 65% |
 
-`[ TOOLING ]`
-
-<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&labelColor=000000&color=000000" />
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41" />
+<sub>Auto-updated daily from the [India Threat Tracker](https://www.sohankanna.com/tracker) · feed generated 11 Nov 2026, 09:46 UTC</sub>
 
 </div>
-
-<br/>
-
-| DOMAIN | WHAT I ACTUALLY DO |
-| :--- | :--- |
-| **Malware Analysis / RE** | Static & dynamic analysis, deobfuscation, disassembly in Ghidra, IOC extraction |
-| **Security Operations** | SIEM & EDR tuning, log analysis, alert triage, incident response |
-| **Application Security** | OWASP Top 10 assessment, web & API vulnerability hunting |
-| **Offensive Security** | Web/API pentesting, phishing simulation, social engineering |
+<!-- TRACKER:END -->
 
 ---
 
@@ -214,13 +192,13 @@ null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 20
 
 **`AI Builder Intern`** — Razorpay · *Oct 2026 – present*
 
-**`Security Intern`** — BytesEncrypt
+**`Security Intern`** — BytesEncrypt<br/>
 Built an end-to-end blue-team training platform on Node.js and AWS, and authored **40–50 hands-on labs** covering threat detection, log analysis and incident response.
 
-**`Technical Lead`** — ZeroCrypt, Cybersecurity Club · *Sep 2025 – present*
+**`Technical Lead`** — ZeroCrypt, Cybersecurity Club · *Sep 2025 – present*<br/>
 Co-founded the club. Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
 
-**`Security Researcher`** — Independent
+**`Security Researcher`** — Independent<br/>
 Found and reported critical and high-severity vulnerabilities through coordinated disclosure, including an RCE acknowledged by the WHO, broken authentication on un.org acknowledged by the United Nations, and a critical-severity issue acknowledged by IBM PSIRT.
 
 ---
@@ -299,6 +277,50 @@ A cloud-native SIEM written in Java and Spring Boot that ingests AWS CloudTrail 
 [Phishing Simulator](https://github.com/sohankanna/PhishingSimulator) ·
 [TryHackMe Walkthroughs](https://github.com/sohankanna/TryHackMe-Walkthroughs) ·
 [CTF Trophy Case](https://github.com/sohankanna/ctf-trophy-case)
+
+---
+
+## Arsenal
+
+<details>
+<summary><b>❯ Languages and tooling</b></summary>
+<br/>
+
+<div align="center">
+
+`[ LANGUAGES ]`
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+
+`[ TOOLING ]`
+
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41" />
+
+</div>
+
+</details>
+
+| DOMAIN | WHAT I ACTUALLY DO |
+| :--- | :--- |
+| **Malware Analysis / RE** | Static & dynamic analysis, deobfuscation, disassembly in Ghidra, IOC extraction |
+| **Security Operations** | SIEM & EDR tuning, log analysis, alert triage, incident response |
+| **Application Security** | OWASP Top 10 assessment, web & API vulnerability hunting |
+| **Offensive Security** | Web/API pentesting, phishing simulation, social engineering |
 
 ---
 
@@ -384,6 +406,12 @@ unpacking heavily obfuscated code on my site, cross-posted to Medium. My write-u
 **Chrome zero-day exploitation** has crossed **6,000+ reads**, and my latest series covers
 all 22 challenges I wrote up from **KPMG CTF 2026**.
 
+**Latest posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [All posts on Medium](https://medium.com/@sohankanna)
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 <a href="https://www.sohankanna.com">
   <img src="https://img.shields.io/badge/SOHANKANNA.COM-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
@@ -400,7 +428,7 @@ all 22 challenges I wrote up from **KPMG CTF 2026**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankanna&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=sohankanna&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
