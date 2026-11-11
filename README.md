@@ -25,23 +25,10 @@
 
 </div>
 
----
-
-## Profile
-
 CSE student working in the gap between how systems are **built** and how they **break**.
 Days go into malware samples, Ghidra disassembly and SIEM pipelines. Nights go into CTFs
 and vulnerability research. Organizations including the **World Health Organization**, the
 **United Nations**, **IBM** and **Bosch** have acknowledged my disclosures.
-
-```yaml
-# ~/.profile
-now:          AI Builder Intern @ Razorpay, Bengaluru
-heading_to:   security engineering
-focus:        [malware analysis, reverse engineering, detection engineering, AppSec]
-ctf_team:     Diamond_Dogs
-ask_me_about: [Ghidra, malware triage, SIEM pipelines, AI agents for vuln hunting, CTFs]
-```
 
 ---
 
@@ -182,16 +169,16 @@ null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 20
 
 ## Experience
 
-**`AI Builder Intern`** — Razorpay · *Oct 2026 – present*
+<img src="assets/logos/razorpay.png" width="32" height="32" align="middle" alt="" />&nbsp; **AI Builder Intern** · Razorpay &nbsp;<sub>`Oct 2026 → present`</sub>
 
-**`Security Intern`** — BytesEncrypt<br/>
+<img src="assets/logos/zerocrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Technical Lead & Co-founder** · ZeroCrypt, Cybersecurity Club &nbsp;<sub>`Sep 2025 → present`</sub><br/>
+Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
+
+<img src="assets/logos/bytesencrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Security Intern** · BytesEncrypt<br/>
 Built an end-to-end blue-team training platform on Node.js and AWS, and authored **40–50 hands-on labs** covering threat detection, log analysis and incident response.
 
-**`Technical Lead`** — ZeroCrypt, Cybersecurity Club · *Sep 2025 – present*<br/>
-Co-founded the club. Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
-
-**`Security Researcher`** — Independent<br/>
-Found and reported critical and high-severity vulnerabilities through coordinated disclosure, including an RCE acknowledged by the WHO, broken authentication on un.org acknowledged by the United Nations, and a critical-severity issue acknowledged by IBM PSIRT.
+<img src="assets/logos/researcher.svg" width="32" height="32" align="middle" alt="" />&nbsp; **Security Researcher** · Independent<br/>
+Critical and high-severity findings through coordinated disclosure: an RCE acknowledged by the **WHO**, broken authentication on un.org acknowledged by the **United Nations**, and a critical-severity issue acknowledged by **IBM PSIRT**.
 
 ---
 
