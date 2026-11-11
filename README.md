@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/NOW-AI_BUILDER_INTERN_%40_RAZORPAY-000000?style=flat-square&labelColor=161B22&color=238636" />
-<img src="https://img.shields.io/badge/DISCLOSURES-5_ACKNOWLEDGED-000000?style=flat-square&labelColor=161B22&color=238636" />
+<img src="https://img.shields.io/badge/DISCLOSURES-8_ACKNOWLEDGED-000000?style=flat-square&labelColor=161B22&color=238636" />
 <img src="https://komarev.com/ghpvc/?username=sohankanna&color=238636&style=flat-square&label=CONNECTIONS+TRACED" />
 
 <br/><br/>
@@ -30,8 +30,8 @@
 
 CSE student working in the gap between how systems are **built** and how they **break**.
 Days go into malware samples, Ghidra disassembly and SIEM pipelines. Nights go into CTFs
-and vulnerability research. Organizations including the **World Health Organization** and
-**IBM** have acknowledged my disclosures.
+and vulnerability research. Organizations including the **World Health Organization**, the
+**United Nations**, **IBM** and **Bosch** have acknowledged my disclosures.
 
 | | |
 | :--- | :--- |
@@ -50,14 +50,17 @@ and vulnerability research. Organizations including the **World Health Organizat
 ```diff
 @@ sohankanna — recent activity @@
 + [2026-10]  Joined Razorpay as AI Builder Intern
++ [2026-10]  Docmost · DoS disclosure → GitHub advisory GHSA-qpw3-hp8j-27mf, credited
 + [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
 + [2026-08]  Speaker · null × OWASP Bengaluru meetup · "From Suspicious File to First Verdict"
 + [2026-08]  World Health Organization · RCE disclosure → Security Hall of Fame
 + [2026-07]  HTB Cyber Apocalypse 2026 · 325th of 6,744 teams (top 5%)
 + [2026-07]  Thales Group · letter of appreciation
++ [2026-04]  United Nations · broken authentication disclosure → Information Security Hall of Fame
 + [2026]     IBM PSIRT · critical-severity disclosure acknowledged
++ [2026]     Bosch · Websites Hall of Fame
 + [2026]     Philips · Hall of Honors
-! [pending]  United Nations · CERT-In · triaged, listing pending
+! [pending]  CERT-In · triaged, listing pending
 ```
 
 ---
@@ -66,17 +69,46 @@ and vulnerability research. Organizations including the **World Health Organizat
 
 <div align="center">
 
-| ORGANIZATION | RECOGNITION |
-| :--- | :--- |
-| **World Health Organization** | `[+]` Security Hall of Fame · Remote Code Execution |
-| **IBM** | `[+]` PSIRT acknowledgment · critical severity |
-| **Philips** | `[+]` Hall of Honors |
-| **Thales Group** | `[+]` Letter of appreciation |
-| **DSCI** (Data Security Council of India) | `[+]` VDP letter of appreciation |
-| **United Nations** | `[~]` Triaged · listing pending |
-| **CERT-In** | `[~]` Triaged · listing pending |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=who.int&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list"><b>World Health Organization</b></a><br/><sub>Security Hall of Fame</sub><br/><sub><code>Remote Code Execution</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/unitednations/009EDB" width="36" height="36" alt="United Nations" /><br/>
+<a href="https://unite.un.org/en/un-information-security-hall-fame"><b>United Nations</b></a><br/><sub>Information Security Hall of Fame</sub><br/><sub><code>Broken authentication</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news"><b>IBM</b></a><br/><sub>PSIRT acknowledgment</sub><br/><sub><code>Critical severity</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=bosch.com&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html"><b>Bosch</b></a><br/><sub>Websites Hall of Fame</sub><br/><sub><code>Misconfiguration</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=philips.com&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html"><b>Philips</b></a><br/><sub>Hall of Honors</sub><br/><sub><code>Coordinated disclosure</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=docmost.com&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://github.com/docmost/docmost/security/advisories/GHSA-qpw3-hp8j-27mf"><b>Docmost</b></a><br/><sub>GitHub advisory · credited</sub><br/><sub><code>GHSA-qpw3-hp8j-27mf</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=thalesgroup.com&sz=128&w=200&h=80&fit=contain&cbg=ffffff&bg=ffffff&output=png" height="36" alt="Thales" /><br/>
+<b>Thales Group</b><br/><sub>Letter of appreciation</sub><br/><sub><code>Default credentials</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.google.com/s2/favicons?domain=dsci.in&sz=128" width="36" height="36" alt="" /><br/>
+<b>DSCI</b><br/><sub>VDP letter of appreciation</sub><br/><sub><code>Data Security Council of India</code></sub>
+</td>
+</tr>
+</table>
 
-<sub>`5 acknowledged · 2 in triage · coordinated disclosure only · no unauthorized testing`</sub>
+<sub>`8 acknowledged · CERT-In in triage · coordinated disclosure only · no unauthorized testing` · names link to the public listing</sub>
 
 </div>
 
@@ -86,13 +118,30 @@ and vulnerability research. Organizations including the **World Health Organizat
 
 <div align="center">
 
-| EVENT | RESULT |
-| :--- | :--- |
-| **CloudSEK CTF 2025** | `13th / ~1,600` · top 1% · solo |
-| **HTB Cyber Apocalypse 2026** | `325th / 6,744 teams` · top 5% |
-| **BSides Bangalore B5CTF 2025** | `5th / ~50 teams` · won conference passes |
-| **KPMG Cyber Threat Flag 2026** | `470 pts · 27 solves` · solo |
-| **CTFtime 2025** | Diamond_Dogs ranked `#40 in India` |
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://www.google.com/s2/favicons?domain=cloudsek.com&sz=128" width="36" height="36" alt="" /><br/>
+<b>CloudSEK CTF 2025</b><br/><sub><b>13th</b> / ~1,600 · top 1%</sub><br/><sub><code>solo</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=128" width="36" height="36" alt="" /><br/>
+<b>HTB Cyber Apocalypse 2026</b><br/><sub><b>325th</b> / 6,744 teams</sub><br/><sub><code>top 5%</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://www.google.com/s2/favicons?domain=securitybsides.com&sz=128" width="36" height="36" alt="" /><br/>
+<b>BSides Bangalore B5CTF 2025</b><br/><sub><b>5th</b> / ~50 teams</sub><br/><sub><code>won conference passes</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.weserv.nl/?url=logotyp.us/file/kpmg.svg&w=200&h=80&fit=contain&cbg=ffffff&bg=ffffff&output=png" height="36" alt="KPMG" /><br/>
+<a href="https://www.sohankanna.com/walkthroughs/series/kpmg-ctf-2026-campus-edition"><b>KPMG Cyber Threat Flag 2026</b></a><br/><sub><b>470 pts</b> · 27 solves</sub><br/><sub><code>solo · 22 writeups</code></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://www.google.com/s2/favicons?domain=ctftime.org&sz=128" width="36" height="36" alt="" /><br/>
+<a href="https://ctftime.org/team/378344"><b>CTFtime 2025</b></a><br/><sub>Diamond_Dogs</sub><br/><sub><code>#40 in India</code></sub>
+</td>
+</tr>
+</table>
 
 <sub>Full logbook with certificates and takeaways → [ctf-trophy-case](https://github.com/sohankanna/ctf-trophy-case)</sub>
 
@@ -102,9 +151,22 @@ and vulnerability research. Organizations including the **World Health Organizat
 
 ## Talks
 
-| DATE | EVENT | TALK | SLIDES |
-| :--- | :--- | :--- | :---: |
-| **Aug 2026** | null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK | **From Suspicious File to First Verdict: A Beginner's Guide to Malware Triage** | [view](https://drive.google.com/file/d/1sFAGZS_kc1tcIjtWGHbZio5MXMJZTott/view?usp=sharing) |
+<table>
+<tr>
+<td width="46%" valign="middle">
+<a href="https://drive.google.com/file/d/1sFAGZS_kc1tcIjtWGHbZio5MXMJZTott/view?usp=sharing"><img src="assets/talks/null-owasp-bengaluru-aug-2026.png" alt="null x OWASP Bengaluru meetup, Aug 2026" width="100%" /></a>
+</td>
+<td valign="middle">
+
+**From Suspicious File to First Verdict: A Beginner's Guide to Malware Triage**
+
+null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 2026**
+
+[Slides](https://drive.google.com/file/d/1sFAGZS_kc1tcIjtWGHbZio5MXMJZTott/view?usp=sharing)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -159,7 +221,7 @@ Built an end-to-end blue-team training platform on Node.js and AWS, and authored
 Co-founded the club. Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
 
 **`Security Researcher`** — Independent
-Found and reported critical and high-severity vulnerabilities through coordinated disclosure, including an RCE acknowledged by the WHO and a critical-severity issue acknowledged by IBM PSIRT.
+Found and reported critical and high-severity vulnerabilities through coordinated disclosure, including an RCE acknowledged by the WHO, broken authentication on un.org acknowledged by the United Nations, and a critical-severity issue acknowledged by IBM PSIRT.
 
 ---
 
