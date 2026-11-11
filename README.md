@@ -171,7 +171,7 @@ null × OWASP Bengaluru combined meetup · SecureSips by CloudSEK · **22 Aug 20
 
 <img src="assets/logos/razorpay.png" width="32" height="32" align="middle" alt="" />&nbsp; **AI Builder Intern** · Razorpay &nbsp;<sub>`Oct 2026 → present`</sub>
 
-<img src="assets/logos/zerocrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Technical Lead & Co-founder** · ZeroCrypt, Cybersecurity Club &nbsp;<sub>`Sep 2025 → present`</sub><br/>
+<img src="assets/logos/zerocrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Technical Lead & Co-founder** · ZeroCrypt, Cybersecurity Club &nbsp;<sub>`Sep 2025 → Oct 2026`</sub><br/>
 Architected distributed lab infrastructure with Docker and AWS for attack simulations. Ran hands-on workshops for **40+ students**.
 
 <img src="assets/logos/bytesencrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Security Intern** · BytesEncrypt<br/>
@@ -261,51 +261,58 @@ A cloud-native SIEM written in Java and Spring Boot that ingests AWS CloudTrail 
 
 ## Arsenal
 
-<details>
-<summary><b>❯ Languages and tooling</b></summary>
-<br/>
+```console
+$ tree ~/arsenal
+~/arsenal
+├── malware-analysis/   static + dynamic analysis, deobfuscation, Ghidra, IOC extraction
+├── security-ops/       SIEM + EDR tuning, log analysis, alert triage, incident response
+├── appsec/             OWASP Top 10, web + API vulnerability hunting
+└── offensive/          web/API pentesting, phishing simulation, social engineering
+```
 
-<div align="center">
-
-`[ LANGUAGES ]`
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
-
-`[ TOOLING ]`
-
-<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&labelColor=000000&color=000000" />
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elastic&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41" />
-
-</div>
-
-</details>
-
-| DOMAIN | WHAT I ACTUALLY DO |
-| :--- | :--- |
-| **Malware Analysis / RE** | Static & dynamic analysis, deobfuscation, disassembly in Ghidra, IOC extraction |
-| **Security Operations** | SIEM & EDR tuning, log analysis, alert triage, incident response |
-| **Application Security** | OWASP Top 10 assessment, web & API vulnerability hunting |
-| **Offensive Security** | Web/API pentesting, phishing simulation, social engineering |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Ghidra-CE2029?style=flat-square" alt="Ghidra" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wazuh-3D82F1?style=flat-square" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
 ## Certificates
 
-> **In progress** — `CompTIA Security+` · `SC-500 Cloud and AI Security Engineer Associate (Microsoft)`
+<p align="center">
+<img src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&labelColor=161B22&logo=hackthebox&logoColor=9FEF00" alt="HTB CDSA" />
+<img src="https://img.shields.io/badge/HTB-CJCA-9FEF00?style=for-the-badge&labelColor=161B22&logo=hackthebox&logoColor=9FEF00" alt="HTB CJCA" />
+<img src="https://img.shields.io/badge/ISC2-CC-468145?style=for-the-badge&labelColor=161B22&logo=isc2&logoColor=5FB55D" alt="ISC2 CC" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&labelColor=161B22&logo=google&logoColor=4285F4" alt="Google Cybersecurity" />
+<img src="https://img.shields.io/badge/THM-SOC_Level_1-C11111?style=for-the-badge&labelColor=161B22&logo=tryhackme&logoColor=FFFFFF" alt="THM SOC Level 1" />
+<img src="https://img.shields.io/badge/THM-Jr_Penetration_Tester-C11111?style=for-the-badge&labelColor=161B22&logo=tryhackme&logoColor=FFFFFF" alt="THM Jr Penetration Tester" />
+<img src="https://img.shields.io/badge/LetsDefend-SOC_Analyst-2E6BE6?style=for-the-badge&labelColor=161B22" alt="LetsDefend SOC Analyst" />
+<img src="https://img.shields.io/badge/LetsDefend-Malware_Analysis-2E6BE6?style=for-the-badge&labelColor=161B22" alt="LetsDefend Malware Analysis" />
+<img src="https://img.shields.io/badge/NPTEL-Network_Security-F7941D?style=for-the-badge&labelColor=161B22" alt="NPTEL Network Security" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/In_progress-CompTIA_Security%2B-C8202F?style=for-the-badge&labelColor=161B22&logo=comptia&logoColor=FF4D5E" alt="In progress CompTIA Security+" />
+<img src="https://img.shields.io/badge/In_progress-Microsoft_SC--500-0078D4?style=for-the-badge&labelColor=161B22" alt="In progress Microsoft SC-500" />
+</p>
+
+<sub>Certificates and verification links ↓</sub>
 
 <details>
 <summary><b>❯ Hack The Box</b></summary>
