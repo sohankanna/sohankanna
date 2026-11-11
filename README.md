@@ -34,15 +34,14 @@ Days go into malware samples, Ghidra disassembly and SIEM pipelines. Nights go i
 and vulnerability research. Organizations including the **World Health Organization**, the
 **United Nations**, **IBM** and **Bosch** have acknowledged my disclosures.
 
-| | |
-| :--- | :--- |
-| **Now** | AI Builder Intern at Razorpay |
-| **Focus** | Malware analysis · Reverse engineering · SOC operations · AppSec |
-| **Heading towards** | Threat intelligence |
-| **Studying** | CompTIA Security+ · SC-500 Cloud and AI Security Engineer Associate (Microsoft) |
-| **Practising on** | TryHackMe · LetsDefend · Hack The Box |
-| **CTF team** | Diamond_Dogs |
-| **Ask me about** | Ghidra, SIEM architecture, deobfuscation, CTFs |
+```yaml
+# ~/.profile
+now:          AI Builder Intern @ Razorpay, Bengaluru
+heading_to:   security engineering
+focus:        [malware analysis, reverse engineering, detection engineering, AppSec]
+ctf_team:     Diamond_Dogs
+ask_me_about: [Ghidra, malware triage, SIEM pipelines, AI agents for vuln hunting, CTFs]
+```
 
 ---
 
