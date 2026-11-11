@@ -105,7 +105,7 @@ and vulnerability research. Organizations including the **World Health Organizat
 <tr>
 <td align="center" width="20%">
 <img src="https://www.google.com/s2/favicons?domain=cloudsek.com&sz=128" width="36" height="36" alt="" /><br/>
-<b>CloudSEK CTF 2025</b><br/><sub><b>13th</b> / ~1,600 · top 1%</sub><br/><sub><code>solo</code></sub>
+<a href="https://www.sohankanna.com/walkthroughs?page=2"><b>CloudSEK CTF 2025</b></a><br/><sub><b>13th</b> / ~1,600 · top 1%</sub><br/><sub><code>solo · 4 writeups</code></sub>
 </td>
 <td align="center" width="20%">
 <img src="https://www.google.com/s2/favicons?domain=hackthebox.com&sz=128" width="36" height="36" alt="" /><br/>
@@ -177,7 +177,7 @@ Architected distributed lab infrastructure with Docker and AWS for attack simula
 <img src="assets/logos/bytesencrypt.png" width="32" height="32" align="middle" alt="" />&nbsp; **Security Intern** · BytesEncrypt<br/>
 Built an end-to-end blue-team training platform on Node.js and AWS, and authored **40–50 hands-on labs** covering threat detection, log analysis and incident response.
 
-<img src="assets/logos/researcher.svg" width="32" height="32" align="middle" alt="" />&nbsp; **Security Researcher** · Independent<br/>
+<img src="assets/logos/sohankanna.png" width="32" height="32" align="middle" alt="" />&nbsp; **Security Researcher** · Independent<br/>
 Critical and high-severity findings through coordinated disclosure: an RCE acknowledged by the **WHO**, broken authentication on un.org acknowledged by the **United Nations**, and a critical-severity issue acknowledged by **IBM PSIRT**.
 
 ---
