@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460" role="img" aria-label="India Threat Tracker: 4 India-relevant flaws added to CISA KEV in the last 7 days, 1 high relevance, 508 on the watchlist" xmlns:c2pa="http://c2pa.org/manifest">
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.pulse{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.25}}
+.in{opacity:0;animation:f .5s ease-out forwards} @keyframes f{to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.pulse,.in{animation:none;opacity:1}}
+</style>
+<rect x=".5" y=".5" width="859" height="459" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle class="pulse" cx="26" cy="27" r="5" fill="#00ff41"/>
+<text x="40" y="32" class="m" font-size="13" font-weight="700" fill="#00ff41" letter-spacing="1.5">LIVE</text>
+<text x="84" y="32" class="s" font-size="15" font-weight="600" fill="#e6edf3">India Threat Tracker</text>
+<text x="246" y="32" class="s" font-size="13" fill="#8b949e">· CISA KEV flaws that matter to India</text>
+<text x="838" y="32" text-anchor="end" class="m" font-size="12" fill="#8b949e">feed 11 Nov 2026 · 09:46 UTC</text>
+<line x1="1" y1="52" x2="859" y2="52" stroke="#30363d"/>
+<g class="in" style="animation-delay:0.10s">
+<rect x="22" y="68" width="196" height="74" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="22" y="82" width="3" height="46" rx="1.5" fill="#00ff41"/>
+<text x="38" y="94" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">NEW IN KEV · 7D</text>
+<text x="38" y="128" class="s" font-size="28" font-weight="700" fill="#00ff41">4</text>
+</g>
+<g class="in" style="animation-delay:0.18s">
+<rect x="230" y="68" width="196" height="74" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="230" y="82" width="3" height="46" rx="1.5" fill="#f85149"/>
+<text x="246" y="94" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">HIGH RELEVANCE · 7D</text>
+<text x="246" y="128" class="s" font-size="28" font-weight="700" fill="#f85149">1</text>
+</g>
+<g class="in" style="animation-delay:0.26s">
+<rect x="438" y="68" width="196" height="74" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="438" y="82" width="3" height="46" rx="1.5" fill="#f0883e"/>
+<text x="454" y="94" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">RANSOMWARE-LINKED</text>
+<text x="454" y="128" class="s" font-size="28" font-weight="700" fill="#f0883e">241</text>
+</g>
+<g class="in" style="animation-delay:0.34s">
+<rect x="646" y="68" width="196" height="74" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="646" y="82" width="3" height="46" rx="1.5" fill="#58a6ff"/>
+<text x="662" y="94" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">ON THE WATCHLIST</text>
+<text x="662" y="128" class="s" font-size="28" font-weight="700" fill="#58a6ff">508</text>
+</g>
+<text x="22" y="168" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">INDIA-RELEVANT KEV ADDITIONS · LAST 30 DAYS</text>
+<rect x="610" y="159" width="9" height="9" rx="2" fill="#f85149"/><text x="624" y="168" class="s" font-size="11" fill="#8b949e">high</text><rect x="664" y="159" width="9" height="9" rx="2" fill="#d29922"/><text x="678" y="168" class="s" font-size="11" fill="#8b949e">medium</text><text x="838" y="168" text-anchor="end" class="s" font-size="11" fill="#8b949e">21 in 30d</text>
+<rect x="24.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="24.0" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="24.0" y="207.0" width="23.2" height="25.0" rx="2" fill="#f85149"/>
+<rect x="51.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="51.2" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="51.2" y="182.0" width="23.2" height="50.0" rx="2" fill="#f85149"/>
+<rect x="78.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="78.4" y="207.0" width="23.2" height="25.0" rx="2" fill="#d29922"/>
+<rect x="78.4" y="207.0" width="23.2" height="25.0" rx="2" fill="#f85149"/>
+<rect x="105.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="105.6" y="207.0" width="23.2" height="25.0" rx="2" fill="#d29922"/>
+<rect x="105.6" y="207.0" width="23.2" height="25.0" rx="2" fill="#f85149"/>
+<rect x="132.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="160.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="187.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="214.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="241.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="268.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="296.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="323.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="350.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="377.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="377.6" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="404.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="404.8" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="432.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="432.0" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="432.0" y="207.0" width="23.2" height="25.0" rx="2" fill="#f85149"/>
+<rect x="459.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="459.2" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="459.2" y="182.0" width="23.2" height="50.0" rx="2" fill="#f85149"/>
+<rect x="486.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="486.4" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="486.4" y="182.0" width="23.2" height="50.0" rx="2" fill="#f85149"/>
+<rect x="513.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="540.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="568.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="595.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="595.2" y="207.0" width="23.2" height="25.0" rx="2" fill="#d29922"/>
+<rect x="622.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="622.4" y="207.0" width="23.2" height="25.0" rx="2" fill="#d29922"/>
+<rect x="649.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="676.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="676.8" y="207.0" width="23.2" height="25.0" rx="2" fill="#d29922"/>
+<rect x="676.8" y="207.0" width="23.2" height="25.0" rx="2" fill="#f85149"/>
+<rect x="704.0" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="731.2" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="758.4" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="785.6" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<rect x="785.6" y="182.0" width="23.2" height="50.0" rx="2" fill="#d29922"/>
+<rect x="812.8" y="230" width="23.2" height="2" rx="1" fill="#30363d"/>
+<text x="22" y="252" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">NEWEST HIGH-RELEVANCE</text>
+<text x="196" y="252" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">PRODUCT</text>
+<text x="468" y="252" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">ADDED</text>
+<text x="556" y="252" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">CISA DEADLINE</text>
+<text x="676" y="252" class="m" font-size="10.5" fill="#8b949e" letter-spacing=".8">EPSS</text>
+<g class="in" style="animation-delay:0.45s">
+<line x1="22" y1="262" x2="838" y2="262" stroke="#30363d"/>
+<text x="22" y="286.0" class="m" font-size="13" font-weight="600" fill="#00ff41">CVE-2026-19868</text>
+<text x="196" y="286.0" class="s" font-size="13.5" fill="#e6edf3">SonicWall SonicOS SSLVPN</text>
+<text x="468" y="286.0" class="s" font-size="13" fill="#8b949e">06 Nov</text>
+<rect x="556" y="273.0" width="92" height="18" rx="9" fill="#8b949e" fill-opacity=".12"/><text x="602" y="286.0" text-anchor="middle" class="m" font-size="11" fill="#8b949e">due 20 Nov</text>
+<rect x="676" y="278.0" width="110" height="8" rx="4" fill="#161b22" stroke="#30363d"/>
+<rect x="676" y="278.0" width="49.8" height="8" rx="4" fill="#00ff41"/>
+<text x="838" y="286.0" text-anchor="end" class="m" font-size="12" fill="#00ff41">0.5%</text>
+</g>
+<g class="in" style="animation-delay:0.55s">
+<line x1="22" y1="302" x2="838" y2="302" stroke="#30363d"/>
+<text x="22" y="326.0" class="m" font-size="13" font-weight="600" fill="#00ff41">CVE-2026-118527</text>
+<text x="196" y="326.0" class="s" font-size="13.5" fill="#e6edf3">Ivanti Connect Secure</text>
+<text x="468" y="326.0" class="s" font-size="13" fill="#8b949e">30 Oct</text>
+<rect x="556" y="313.0" width="92" height="18" rx="9" fill="#d29922" fill-opacity=".12"/><text x="602" y="326.0" text-anchor="middle" class="m" font-size="11" fill="#d29922">due in 2d</text>
+<rect x="676" y="318.0" width="110" height="8" rx="4" fill="#161b22" stroke="#30363d"/>
+<rect x="676" y="318.0" width="63.4" height="8" rx="4" fill="#00ff41"/>
+<text x="838" y="326.0" text-anchor="end" class="m" font-size="12" fill="#00ff41">0.8%</text>
+</g>
+<g class="in" style="animation-delay:0.65s">
+<line x1="22" y1="342" x2="838" y2="342" stroke="#30363d"/>
+<text x="22" y="366.0" class="m" font-size="13" font-weight="600" fill="#00ff41">CVE-2026-111357</text>
+<text x="196" y="366.0" class="s" font-size="13.5" fill="#e6edf3">Ivanti Connect Secure</text>
+<text x="468" y="366.0" class="s" font-size="13" fill="#8b949e">30 Oct</text>
+<rect x="556" y="353.0" width="92" height="18" rx="9" fill="#f85149" fill-opacity=".12"/><text x="602" y="366.0" text-anchor="middle" class="m" font-size="11" fill="#f85149">past due</text>
+<rect x="676" y="358.0" width="110" height="8" rx="4" fill="#161b22" stroke="#30363d"/>
+<rect x="676" y="358.0" width="49.9" height="8" rx="4" fill="#00ff41"/>
+<text x="838" y="366.0" text-anchor="end" class="m" font-size="12" fill="#00ff41">0.5%</text>
+</g>
+<g class="in" style="animation-delay:0.75s">
+<line x1="22" y1="382" x2="838" y2="382" stroke="#30363d"/>
+<text x="22" y="406.0" class="m" font-size="13" font-weight="600" fill="#00ff41">CVE-2026-97229</text>
+<text x="196" y="406.0" class="s" font-size="13.5" fill="#e6edf3">GitLab Community Edition</text>
+<text x="468" y="406.0" class="s" font-size="13" fill="#8b949e">29 Oct</text>
+<rect x="556" y="393.0" width="92" height="18" rx="9" fill="#f85149" fill-opacity=".12"/><text x="602" y="406.0" text-anchor="middle" class="m" font-size="11" fill="#f85149">past due</text>
+<rect x="676" y="398.0" width="110" height="8" rx="4" fill="#161b22" stroke="#30363d"/>
+<rect x="676" y="398.0" width="109.2" height="8" rx="4" fill="#f85149"/>
+<text x="838" y="406.0" text-anchor="end" class="m" font-size="12" fill="#f85149">65%</text>
+</g>
+<line x1="22" y1="422" x2="838" y2="422" stroke="#30363d"/>
+<text x="22" y="446" class="s" font-size="11" fill="#8b949e">EPSS bar = percentile among all scored CVEs · deadline = CISA remediation due date · sources: CISA KEV, FIRST EPSS</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkOTgzYWViOS1lNDVhLTRjMmUtYTYxNi01NGQ5ZDdjM2NmNTcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCMvyQCdCT5jrnchPIcyeG0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyYzhiM2UyZi0wMzUzLTQ5NzctYWI5Ny0zMDE5NzJhNTMzYWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonWAMbyJu4bfIzrgta6d9AAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggNUBwCsfVocTyVfeQrsB9+2eVdVWI6BmcklZeMoZ2GKikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFwxbuH+1/n5UTk5hyrYtyUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIDLHfmwejrfP3pyjMB77dG9lThsESrkgLryXKOkYhPQ9ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSxIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ5ODNhZWI5LWU0NWEtNGMyZS1hNjE2LTU0ZDlkN2MzY2Y1Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdlZTc1YmM4LWY1ODMtNDViYS1hZDVkLWZjYWRjMTZiM2ZhOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCA1QHAKx9WhxPJV95CuwH37Z5V1VYjoGZySVl4yhnYYqKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggCxXeIoYG5Jj3466pCnX2jbw3I1O5MgFTcjJ6XPjJbiiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggnfKjEChGP3rW1Dj4yUoBUbs0RtVTQfdciyx0NNEk+Ex0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMsdOtWmXWL39fvVpZ8EFwjmiU921WfaTOsfDPZYzq98u52C0IRFQ94n0L9PXN4DUfOldpbUceqHuVHTYPNtYoM=</c2pa:manifest></metadata></svg>
