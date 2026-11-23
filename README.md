@@ -6,11 +6,13 @@
 
 <img src="https://img.shields.io/badge/NOW-AI_BUILDER_INTERN_%40_RAZORPAY-000000?style=flat-square&labelColor=161B22&color=238636" />
 <img src="https://img.shields.io/badge/DISCLOSURES-8_ACKNOWLEDGED-000000?style=flat-square&labelColor=161B22&color=238636" />
+<img src="https://img.shields.io/badge/SIGMAHQ-CONTRIBUTOR-000000?style=flat-square&labelColor=161B22&color=8957E5" />
 <img src="https://komarev.com/ghpvc/?username=sohankanna&color=238636&style=flat-square&label=CONNECTIONS+TRACED" />
 
 <br/><br/>
 
 <a href="#hall-of-fame">Hall of Fame</a> ·
+<a href="#open-source-security">Open Source</a> ·
 <a href="#changelog">Changelog</a> ·
 <a href="#ctf-record">CTF Record</a> ·
 <a href="#talks">Talks</a> ·
@@ -28,7 +30,8 @@
 CSE student working in the gap between how systems are **built** and how they **break**.
 Days go into malware samples, Ghidra disassembly and SIEM pipelines. Nights go into CTFs
 and vulnerability research. Organizations including the **World Health Organization**, the
-**United Nations**, **IBM** and **Bosch** have acknowledged my disclosures.
+**United Nations**, **IBM** and **Bosch** have acknowledged my disclosures, and
+**SigmaHQ** has merged my fixes into its open detection-rule set.
 
 ---
 
@@ -81,10 +84,35 @@ and vulnerability research. Organizations including the **World Health Organizat
 
 ---
 
+## Open Source Security
+
+<img src="https://github.com/SigmaHQ.png?size=80" width="32" height="32" align="middle" alt="" />&nbsp; **[SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)** · the open detection-rule format used across SIEMs &nbsp;<a href="https://github.com/SigmaHQ/sigma/pull/6658"><img src="https://img.shields.io/badge/PR_%236658-MERGED-8957E5?style=flat-square&labelColor=161B22&logo=github&logoColor=white" align="middle" alt="PR #6658 merged" /></a>
+
+> **Tightened the filters in five detection rules** · <sub>`merged 23 Nov 2026` · `Sigma November 2026 release milestone`</sub>
+>
+> Their `Image|endswith` exclusions had no leading backslash, so a filter meant for `vmnat.exe` also
+> excluded `notvmnat.exe`. Any binary named to end the same way slipped past the rule. Added the
+> backslash so each exclusion matches only the real binary, and tested old vs new with
+> `pysigma-backend-sqlite`.
+>
+> <sub>Rules: Renamed Vmnat.exe Execution · Enumeration for 3rd Party Creds From CLI · Dead Drop Resolver Domain Connection · Suspicious Azure Front Door Connection · CVE-2021-26857 Exploitation Attempt</sub>
+
+<img src="https://github.com/docmost.png?size=80" width="32" height="32" align="middle" alt="" />&nbsp; **[docmost/docmost](https://github.com/docmost/docmost)** · open-source wiki and docs platform &nbsp;<a href="https://github.com/docmost/docmost/security/advisories/GHSA-qpw3-hp8j-27mf"><img src="https://img.shields.io/badge/GHSA-CREDITED-238636?style=flat-square&labelColor=161B22&logo=github&logoColor=white" align="middle" alt="GHSA credited" /></a>
+
+> **Denial of service through a self-referential page hierarchy** · <sub>`GHSA-qpw3-hp8j-27mf` · `credited reporter`</sub>
+>
+> Reported privately and credited as the reporter on the published GitHub security advisory.
+
+<sub>Building in the open too: the [India Threat Tracker](https://github.com/sohankanna/india-threat-tracker) ships its detection rules as Sigma, Splunk, Elastic and Wazuh, with a MISP feed and STIX 2.1 data.</sub>
+
+---
+
 ## Changelog
 
 ```diff
 @@ sohankanna — recent activity @@
++ [2026-11]  SigmaHQ/sigma · PR #6658 merged → tightened exclusions in five detection rules
++ [2026-11]  Bosch · subdomain takeover disclosure → Websites Hall of Fame
 + [2026-10]  Joined Razorpay as AI Builder Intern
 + [2026-10]  Docmost · DoS disclosure → GitHub advisory GHSA-qpw3-hp8j-27mf, credited
 + [2026-10]  KPMG Cyber Threat Flag 2026 · 470 pts, 27 solves · 22 writeups published
