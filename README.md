@@ -471,6 +471,4 @@ all 22 challenges I wrote up from **KPMG CTF 2026**.
 
 <br/><br/>
 
-<sub>`coordinated disclosure only · no unauthorized testing`</sub>
-
 </div>
