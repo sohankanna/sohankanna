@@ -442,6 +442,16 @@ all 22 challenges I wrote up from **KPMG CTF 2026**.
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohankanna/sohankanna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohankanna/sohankanna/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating through my GitHub contribution graph while the ghosts chase him" src="https://raw.githubusercontent.com/sohankanna/sohankanna/output/pacman-contribution-graph-dark.svg" width="860">
+</picture>
+
+<sub>`$ ./pacman --eat ~/commits`</sub>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=sohankanna&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
